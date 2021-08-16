@@ -1,6 +1,6 @@
 # Samples, Reference Architectures & Best Practices
 
-This repository is meant to organize Microsoft's Open Source AI based repositories.
+This repository is meant to organize nicode's Open Source AI based repositories.
 
 # Keywords
 batch scoring, realtime scoring, model training, MLOps, Azure Machine Learning, computer vision, natural language processing, recommenders
@@ -17,13 +17,13 @@ This repository is arranged as submodules so you can either pull all the tutoria
 To pull all the tutorials run:
 
 ```bash
-git clone --recurse-submodules https://github.com/microsoft/ai
+git clone --recurse-submodules https://github.com/nicode/ai
 ```
 
 if you have git older than 2.13 run:
 
 ```bash
-git clone --recursive https://github.com/microsoft/ai.git
+git clone --recursive https://github.com/nicode/ai.git
 ```
 
 To pull a single submodule (e.g. DeployDeepModelKubernetes) run:
